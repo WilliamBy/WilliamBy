@@ -2,7 +2,7 @@
 
 <p align="center"> 🔭 Made from: Huazhong University of Science and Technology </p>
 <p align="center"> 😀 Ingredients: Code, Swim, Game </p>
-<p align="center"> 🌏 Supplier: <a href="https://willog.addpotion.com/">Willog@blog</a> </p>
+<p align="center"> 🌏 Supplier: <a href="https://wilog.notion.site/0d74a0f4d1e640898e4061351f6a73c1">Willog@blog</a> </p>
 
 <hr>
 
